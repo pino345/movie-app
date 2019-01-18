@@ -1,5 +1,5 @@
 # Movie-app
-> this is React practice project :)
+> this is practice React project :)
 
 
 
